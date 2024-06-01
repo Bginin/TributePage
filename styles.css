@@ -1,0 +1,56 @@
+body {
+    background-color: rgb(232, 216, 216);
+    font-size: 1rem;
+    line-height: 1.4rem;
+}
+.bodoni-moda {
+    font-family: "Bodoni Moda", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+.container-header {
+ text-align: center;
+}
+figure {
+background-color: rgb(19, 6, 31);
+padding-bottom: 1rem;
+}
+img {
+    width: 80%;
+    height: auto;
+}
+figcaption {
+    color: white;
+    margin-top: 1rem;
+}
+.container-main {
+    width: 60vw;
+}
+h4 {
+    text-align: center;
+}
+ul {
+    width: 70vw;
+    margin: auto;
+    padding-left: 0;
+}
+li {
+    margin-top: 1.5rem;
+}
+.container-quote {
+    width: 70vw;
+    margin: 2rem auto;
+}
+footer {
+    text-align: center;
+    padding: 1rem;
+}
+a:visited {
+text-decoration: none;
+color:rgb(20, 149, 213)
+}
+a {
+    text-decoration: none;
+}
